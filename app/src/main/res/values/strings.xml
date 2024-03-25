@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Literature</string>
+
+    <!-- Topics-->
+    <string name="literature_topic">Literature Topic,Literature Topic,Literature Topic,Literature Topic,Literature Topic,Literature Topic,Literature Topic,Literature Topic,Literature Topic,Literature Topic,Literature Topic,Literature Topic,Literature Topic,Literature Topic,Literature Topic,Literature Topic,Literature Topic,Literature Topic,Literature Topic,Literature Topic,Literature Topic, Literature Topic</string>
+    <string name="ict_topic">ICT Topic,ICT Topic,ICT Topic,ICT Topic,ICT Topic,ICT Topic,ICT Topic,ICT Topic,ICT Topic,ICT Topic,ICT Topic,ICT Topic,ICT Topic,ICT Topic,ICT Topic,ICT Topic,ICT Topic,ICT Topic,ICT Topic,ICT Topic,ICT Topic, ICT Topic</string>
+    <string name="pakistan_studies_topic">Pakistan Studies Topic,Pakistan Studies Topic,Pakistan Studies Topic,Pakistan Studies Topic,Pakistan Studies Topic,Pakistan Studies Topic,Pakistan Studies Topic,Pakistan Studies Topic,Pakistan Studies Topic,Pakistan Studies Topic,Pakistan Studies Topic,Pakistan Studies Topic,Pakistan Studies Topic,Pakistan Studies Topic,Pakistan Studies Topic,Pakistan Studies Topic,Pakistan Studies Topic,Pakistan Studies Topic,Pakistan Studies Topic,Pakistan Studies Topic,Pakistan Studies Topic, Pakistan Studies Topic</string>
+
+    <string name="urdu_topic">Urdu Topic,Urdu Topic,Urdu Topic,Urdu Topic,Urdu Topic,Urdu Topic,Urdu Topic,Urdu Topic,Urdu Topic,Urdu Topic,Urdu Topic,Urdu Topic,Urdu Topic,Urdu Topic,Urdu Topic,Urdu Topic,Urdu Topic,Urdu Topic,Urdu Topic,Urdu Topic,Urdu Topic, Urdu Topic</string>
+    <string name="linear_algebra_topic">Linear Algebra Topic,Linear Algebra Topic,Linear Algebra Topic,Linear Algebra Topic,Linear Algebra Topic,Linear Algebra Topic,Linear Algebra Topic,Linear Algebra Topic,Linear Algebra Topic,Linear Algebra Topic,Linear Algebra Topic,Linear Algebra Topic,Linear Algebra Topic,Linear Algebra Topic,Linear Algebra Topic,Linear Algebra Topic,Linear Algebra Topic,Linear Algebra Topic,Linear Algebra Topic,Linear Algebra Topic,Linear Algebra Topic, Linear Algebra Topic</string>
+    <string name="islamiyat_topic">Islamiyat Topic,Islamiyat Topic,Islamiyat Topic,Islamiyat Topic,Islamiyat Topic,Islamiyat Topic,Islamiyat Topic,Islamiyat Topic,Islamiyat Topic,Islamiyat Topic,Islamiyat Topic,Islamiyat Topic,Islamiyat Topic,Islamiyat Topic,Islamiyat Topic,Islamiyat Topic,Islamiyat Topic,Islamiyat Topic,Islamiyat Topic,Islamiyat Topic,Islamiyat Topic, Islamiyat Topic</string>
+    <string name="english_topic">English Topic,English Topic,English Topic,English Topic,English Topic,English Topic,English Topic,English Topic,English Topic,English Topic,English Topic,English Topic,English Topic,English Topic,English Topic,English Topic,English Topic,English Topic,English Topic,English Topic,English Topic, English Topic</string>
+
+</resources>
